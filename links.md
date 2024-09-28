@@ -8,3 +8,4 @@ permalink: LINKS/
 4. [Introduction to the Linux Command Line - Full Course](https://www.youtube.com/watch?v=IVquJh3DXUA) - A comprehensive video course covering fundamental Linux command line commands and usage.
 5. [LinuxCommand](https://linuxcommand.org/) - Provides a basic introduction to Linux commands, including touch. It’s a good starting point for beginners.
 6. [C Language Tutorial](https://www.w3schools.com/c/) - Provides comprehensive tutorials and resources for learning C programming, offering examples and exercises for beginners and developers to enhance their coding skills.
+7. [Fundamentals of Operating Systems](https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/) - Covering key concepts like process management, CPU scheduling, and memory management for a deep academic understanding.
