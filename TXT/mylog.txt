@@ -49,9 +49,17 @@ ZCZC W05 20 L22 Decrypt my tarball
 
 ZCZC W06 90 L01 SCELE/Discord related
 ZCZC W06 150 L98 Midterm Exam
-ZCZC W06 30 L05 Friday quiz
 ZCZC W06 100 L09 Weekly Assignments
 ZCZC W06 10 L41 Updating mylog.txt
 ZCZC W06 100 L02 Attending OS Class
 ZCZC W06 60 L01 Answering Pop Quiz 6
 ZCZC W06 20 L22 Decrypt my tarball
+
+ZCZC W07 90 L01 SCELE/Discord related
+ZCZC W07 30 L05 Friday quiz
+ZCZC W07 100 L09 Weekly Assignments
+ZCZC W07 10 L41 Updating mylog.txt
+ZCZC W07 100 L02 Attending OS Class
+ZCZC W07 60 L01 Answering Pop Quiz 7
+ZCZC W07 20 L22 Decrypt my tarball
+ZCZC W07 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.

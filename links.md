@@ -11,3 +11,4 @@ permalink: LINKS/
 7. [Fundamentals of Operating Systems](https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/) - Covering key concepts like process management, CPU scheduling, and memory management for a deep academic understanding.
 8. [How to Use SCP (Secure Copy)](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) - Explains how to use the `scp` command to securely transfer files and directories between two systems using SSH.
 9. [Kernotex Youtube Channel](https://www.youtube.com/@Kernotex) - A Youtube channel with many helpful Linux-related videos.
+10. [OS Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt) - OS codes for log
