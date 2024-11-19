@@ -63,3 +63,17 @@ ZCZC W07 100 L02 Attending OS Class
 ZCZC W07 60 L01 Answering Pop Quiz 7
 ZCZC W07 20 L22 Decrypt my tarball
 ZCZC W07 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+
+ZCZC W08 90 L01 SCELE/Discord related
+ZCZC W08 30 L05 Friday quiz
+ZCZC W08 100 L09 Weekly Assignments
+ZCZC W08 10 L41 Updating mylog.txt
+ZCZC W08 100 L02 Attending OS Class
+ZCZC W08 60 L01 Answering Pop Quiz 8
+ZCZC W08 20 L22 Decrypt my tarball
+
+ZCZC W09 120 L02 Attending OS Class
+ZCZC W09 240 L19 Doing LFS Assignment
+ZCZC W09 240 L05 Answering Pop Quiz 9
+ZCZC W09 10 L41 Updating mylog.txt
+ZCZC W09 90 L01 SCELE/Discord related
