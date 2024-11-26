@@ -77,3 +77,12 @@ ZCZC W09 240 L19 Doing LFS Assignment
 ZCZC W09 240 L05 Answering Pop Quiz 9
 ZCZC W09 10 L41 Updating mylog.txt
 ZCZC W09 90 L01 SCELE/Discord related
+
+ZCZC W10 100 L02 Attending OS Class
+ZCZC W10 20 L11 Trying Demos and Updating
+ZCZC W10 750 L13 LFS Stuff
+ZCZC W10 30 L41 Updating mylog.txt
+ZCZC W10 200 L09 Learn for OS related content
+ZCZC W10 350 L09 Doing OS and fixing the error
+ZCZC W10 100 L09 Watching youtube references about LFS
+ZCZC W10 90 L14 Log + update + running etc

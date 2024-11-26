@@ -14,4 +14,5 @@ permalink: LINKS/
 10. [OS Log Codes](https://osp4diss.vlsm.org/ETC/logCodes.txt) - OS codes for log.
 11. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/index.html) - Tutorial for Linux From Scratch.
 12. [Change Linux Username](https://www.linuxuprising.com/2019/04/how-to-change-username-on-ubuntu-debian.html) - It seems fairly simple, but changing username may lead to another complex problem if not done properly.
-13. [Gaming in Linux](https://www.youtube.com/watch?v=BOGouicDCS8) - A person play a game in Linux. 
+13. [Gaming in Linux](https://www.youtube.com/watch?v=BOGouicDCS8) - A person play a game in Linux.
+14. [About Virtual Memory](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch10.pptx) - Virtual Memory Things 
